@@ -1,1 +1,3 @@
-# AI_self_study
+# AI_SELF_STUDY
+
+## Reference
